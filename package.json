@@ -1,0 +1,16 @@
+{
+  "name": "hello-electron",
+  "version": "1.0.0",
+  "description": "Hello World for Electron",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "keywords": [],
+  "author": "Kye Lewis <kye@kyedoesdev.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "18.2.0",
+    "esbuild": "0.14.38"
+  }
+}
